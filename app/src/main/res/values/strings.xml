@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVC Stopwatch</string>
+    <string name="action_about">About</string>
+    <string name="action_reset">Reset</string>
+    <string name="author">Alice Lee (lemi0127)</string>
+    <string name="stopwatchHint">HH:MM:SS:T</string>
+</resources>
